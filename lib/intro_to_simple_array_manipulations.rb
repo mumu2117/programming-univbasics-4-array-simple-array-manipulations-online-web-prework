@@ -18,3 +18,7 @@ artists.shift(next_artist)
 artist =["array"]
 next_artist = "string"
 artists.insert(next_artist)
+
+artist =["array"]
+next_artist = "array"
+artists.uniq(next_artist)
